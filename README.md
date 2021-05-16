@@ -4,5 +4,5 @@ E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A. N. Gorban, "The Five Fa
 
 Файл Jupiter Notebook описывает процесс разработки моделей на основе этих данных
 
-nn_binary_classifier - модель Keras для бинарной классификации данных
+nn_binary_classifier - модель Keras для бинарной классификации данных \n
 rf_binary_classifier - модель scikit-learn на основе случайного леса для бинарной классификации
